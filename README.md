@@ -1,3 +1,4 @@
+
 🚀 SQL Workshop for Business Data Analysis
 Welcome to the interactive SQL workshop designed to help you learn and analyze data using SQL! This workshop is tailored to help you develop practical SQL skills by working with real-world business data.
 
@@ -30,3 +31,5 @@ Goal: Apply everything you’ve learned to solve complex analytical problems.
 Ensure you have a working SQL environment (e.g., MySQL, PostgreSQL, or any other tool).
 Download the provided data files.
 Follow the instructions in each level to complete the tasks.
+
+
