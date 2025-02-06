@@ -24,7 +24,7 @@ Goal: Learn how to analyze data from multiple tables using advanced techniques.
 
 Level 4: Advanced Analytical Tasks
 Concepts: Complex queries, nested subqueries, and advanced aggregations.
-Goal: Apply everything you've learned to solve complex analytical problems.
+Goal: Apply everything you’ve learned to solve complex analytical problems.
 
 🛠️ Getting Started
 Ensure you have a working SQL environment (e.g., MySQL, PostgreSQL, or any other tool).
